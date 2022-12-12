@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background-image: url("https://img.freepik.com/vecteurs-libre/fond-galaxie-realiste_23-2148991322.jpg?w=2000");
+}
+
+canvas {
+  height: 100vh;
+  width: 100vw;
+}
